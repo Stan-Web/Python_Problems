@@ -1,6 +1,7 @@
 # Python_Problems
-Basic problems
-Ejercicios de Programación
+
+Ejercicios de Programación:
+
 Este repositorio contiene una colección de ejercicios de programación resueltos en Python. Estos ejercicios abarcan una variedad de temas y conceptos de programación, desde algoritmos básicos hasta problemas más complejos.
 
 Cada ejercicio se encuentra en un archivo individual y contiene una descripción del problema, seguido del código Python que resuelve ese problema en particular. Los ejercicios están organizados en función de su temática o concepto principal.
